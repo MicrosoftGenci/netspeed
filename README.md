@@ -1,6 +1,5 @@
-# Speed Test Kütüphanesinin yüklenmesi
-
-PyCharm Community Edition 2023.3.4 uygulama içerisinden  sol aşağıdaki terminalden 
+# Speed Test Kütüphanesinin kurulumu
+Python 3.8 kullanıldı.
 `pip install speedtest-cli` yazarak kütüphaneyi kurmuş oluyoruz.
 
 İnternet hızınızı csv olarak kayıt edebilirsiniz. Kayit noktasını bu kod ile değiştirebilirsiniz.
