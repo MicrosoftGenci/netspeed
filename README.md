@@ -1,5 +1,5 @@
 # Speed Test Kütüphanesinin kurulumu
-Python 3.8 kullanıldı.
+Python 3.10 kullanıldı.
 `pip install speedtest-cli` yazarak kütüphaneyi kurmuş oluyoruz.
 
 İnternet hızınızı csv olarak kayıt edebilirsiniz. Kayit noktasını bu kod ile değiştirebilirsiniz.
